@@ -1,3 +1,4 @@
-uptime
-free -m
 date
+uptime
+free -m 
+which git
