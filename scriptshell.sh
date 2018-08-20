@@ -1,4 +1,2 @@
-date
-uptime
-free -m 
-which git
+free -m
+rpm -qa | grep ssh
